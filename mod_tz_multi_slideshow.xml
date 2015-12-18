@@ -758,4 +758,7 @@
         </fields>
     </config>
 
+    <updateservers>
+        <server type="extension" priority="1" name="TZ Multi Slideshow Module"><![CDATA[http://joomla.templaza.net/extensions/updates/modules/mod_tz_multi_slideshow_update.xml]]></server>
+    </updateservers>
 </extension>
